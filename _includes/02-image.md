@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Vamos, Brasil!](http://www.womenssoccerunited.com/wp-content/uploads/2014/03/brazil1.jpg)
