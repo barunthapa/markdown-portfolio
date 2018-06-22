@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+My favorites:
+* Football
+  * Manchester United
+  * Netherlands
+* Batman
+  * I am Batman
